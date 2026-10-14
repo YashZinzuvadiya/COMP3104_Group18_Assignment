@@ -3,3 +3,5 @@ Importance of DevOps in the SDLC
 
 DevOps joins development and operations so that software moves from planning to production faster and with fewer errors. It removes the hand-off gaps of traditional SDLC models.
 
+Continuous integration runs builds and tests on every push, so bugs are found in the coding and testing phases rather than after release.
+
