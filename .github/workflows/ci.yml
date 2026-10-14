@@ -1,0 +1,17 @@
+name: CI
+run-name: ${{ github.actor }} triggered CI on ${{ github.ref_name }}
+on:
+  push:
+  pull_request:
+    branches: [main]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v4
+      - run: echo "Triggered by a ${{ github.event_name }} event on ${{ runner.os }}"
+      - name: List repository files
+        run: ls -la
+      - name: Check required files exist
+        run: test -f README.md && echo "README.md found"
