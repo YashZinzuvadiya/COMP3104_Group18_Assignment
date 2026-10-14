@@ -3,3 +3,5 @@ COMP 2156 DevOps Course
 
 This course introduces DevOps culture and practices: version control with Git and GitHub, branching, pull requests, and automating builds and checks with continuous integration.
 
+In this group assignment we practise per-developer branches, 10 commits each, merge conflict resolution, a README, a pull request template and a GitHub Actions workflow.
+
