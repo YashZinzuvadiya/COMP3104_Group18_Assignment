@@ -9,3 +9,4 @@ Continuous delivery and deployment automate releases, making them repeatable and
 
 Version control gives the team history, traceability and safe collaboration through branches and pull requests, which supports code review and quality.
 
+In short, DevOps shortens the SDLC feedback loop, improves quality and reliability, and encourages shared ownership between teams.
