@@ -15,3 +15,9 @@ This repository hosts the Group 18 assignment for the DevOps course. It practise
 3. Create your own branch: `git checkout -b STUDENTID-Name`
 4. Push it: `git push -u origin STUDENTID-Name`
 5. Commit locally, run `git pull origin main` regularly, and open a pull request into `main` when ready.
+
+## CI/CD Pipeline
+GitHub Actions runs the workflow in `.github/workflows/ci.yml` on every push and on pull requests to `main`. It runs on `ubuntu-latest`, checks out the code, lists the repository files and confirms that `README.md` exists. The status of each run is shown in the Actions tab.
+
+## Branching Strategy
+The team uses a per-developer branching strategy. Each member works on a personal branch named `STUDENTID-Name` (for example `101475983-Yash`). Nobody commits directly to `main`. Changes reach `main` through pull requests that use the pull request template, and any merge conflicts are resolved before merging.
