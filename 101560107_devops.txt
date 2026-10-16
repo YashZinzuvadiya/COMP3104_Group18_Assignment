@@ -6,3 +6,17 @@ teams can build, test and release software faster and with fewer
 mistakes when they work together and automate repeated tasks. In this
 course we learn how DevOps works in practice, mainly through version
 control and continuous integration.
+
+
+TOPICS COVERED
+
+In the first weeks we learned why DevOps matters and how to use the
+command line with BASH. After that we studied version control with Git
+and GitHub, including the difference between centralized and
+distributed version control systems, remote repositories, SSH keys and
+access tokens. Later topics include DevOps roles and culture, the
+DevOps lifecycle, monolith and microservice architecture, hosting
+single page applications, and tracking work with Jira. The course also
+covers continuous integration and continuous deployment, which means
+automatically building, testing and deploying code whenever changes
+are made.
