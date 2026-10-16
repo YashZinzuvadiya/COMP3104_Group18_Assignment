@@ -20,3 +20,13 @@ single page applications, and tracking work with Jira. The course also
 covers continuous integration and continuous deployment, which means
 automatically building, testing and deploying code whenever changes
 are made.
+
+TOOLS USED
+
+The main tools in the course are Git and GitHub for version control.
+We use Git Bash to practice command line work, and GitHub Desktop or
+SourceTree can be used as graphical tools. For continuous integration
+the outline mentions Travis CI and Jenkins, but in our group assignment
+we used GitHub Actions, which runs a workflow automatically every time
+we push code. Other tools in the course are Jira for tracking work, and
+Gradle and Maven for building projects.
