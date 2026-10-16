@@ -1,0 +1,8 @@
+COMP 2156 DEVOPS COURSE
+
+This course is about DevOps, which is a way of working that brings
+software development and IT operations together. The main idea is that
+teams can build, test and release software faster and with fewer
+mistakes when they work together and automate repeated tasks. In this
+course we learn how DevOps works in practice, mainly through version
+control and continuous integration.
