@@ -5,3 +5,12 @@ to plan, build, test, release and maintain software. The common phases
 are planning, requirements, design, development, testing, deployment
 and maintenance. Following these phases helps a team deliver software
 that works, meets the user's needs and can be improved over time.
+
+
+DEVOPS AND THE SDLC
+
+DevOps means the developers and the operations team work together. In
+the old way, developers finished the code and then passed it to
+operations, which caused delays. With DevOps, everything is connected
+and a lot of the work is automated, so software can be built, tested
+and released faster.
