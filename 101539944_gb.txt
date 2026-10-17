@@ -1,0 +1,17 @@
+George Brown College - Overview
+Student: Ishan (101539944)
+ 
+1. About the college
+George Brown College is a public college in Toronto, Ontario. It offers
+diplomas, certificates, advanced diplomas, degrees and graduate certificates,
+with a strong focus on hands-on, career-oriented learning.
+
+
+2. Campuses
+- St. James Campus: the main downtown campus, home to business, technology
+  and many other programs.
+- Casa Loma Campus: located near Casa Loma, with programs in areas such as
+  technology, health sciences and community services.
+- Waterfront Campus: located on Toronto's waterfront, with programs in areas
+  such as health, community and human services.
+(Check gbc.ca to confirm the current campus list and which programs run where.)
