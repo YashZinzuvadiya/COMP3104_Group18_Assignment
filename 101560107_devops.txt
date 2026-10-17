@@ -30,3 +30,15 @@ the outline mentions Travis CI and Jenkins, but in our group assignment
 we used GitHub Actions, which runs a workflow automatically every time
 we push code. Other tools in the course are Jira for tracking work, and
 Gradle and Maven for building projects.
+
+
+WHAT I LEARNED FROM THE GROUP ASSIGNMENT
+
+This group assignment gave me hands-on practice with the things we
+studied in class. I learned how to clone a repository, create my own
+branch, and make small commits with clear messages. Each member works
+on a separate branch, which keeps the main branch safe until the work
+is reviewed and merged with a pull request. I also saw how GitHub
+Actions runs automatically on every push and shows a green check when
+the workflow passes. Working with a team will also show me why pulling the
+latest changes from main before starting work is important.
