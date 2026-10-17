@@ -24,3 +24,10 @@ other. During testing, tools like GitHub Actions run checks every time
 we push code, so mistakes are found early. During deployment, the
 release can be automated, so it is faster and has fewer errors. After
 release, the team keeps watching the software and fixes problems quickly.
+
+
+CONCLUSION
+
+DevOps is important in the SDLC because it makes the whole process faster and more 
+reliable. Teams work together, testing and releasing are automated, and problems are 
+found earlier. This saves time and gives users better software.
