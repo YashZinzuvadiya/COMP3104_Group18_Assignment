@@ -1,0 +1,6 @@
+Software Development Life Cycle (SDLC) - Notes
+Student: Ishan (101539944)
+ 
+1. What is the SDLC?
+The SDLC is a structured process teams follow to plan, build, test, release
+and maintain software. It helps control cost, quality and time.
