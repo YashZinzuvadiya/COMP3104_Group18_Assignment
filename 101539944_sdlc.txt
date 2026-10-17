@@ -27,3 +27,8 @@ and maintain software. It helps control cost, quality and time.
 4. Waterfall vs Agile
 Waterfall suits projects with fixed, clear requirements. Agile suits projects
 where requirements change and early feedback is valuable.
+
+5. Conclusion
+For a small team project like ours, Agile fits well: we make small commits,
+merge often and get quick feedback from the CI pipeline. DevOps and CI/CD
+support the testing and deployment phases by automating them.
