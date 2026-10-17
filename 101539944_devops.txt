@@ -1,0 +1,8 @@
+DevOps - Notes
+Student: Ishan (101539944)
+ 
+1. What is DevOps?
+DevOps is a way of working that brings software development (Dev) and IT
+operations (Ops) together. Instead of passing work from one team to another,
+both share responsibility for building, releasing and running the software.
+The goal is to deliver updates faster and with fewer errors.
