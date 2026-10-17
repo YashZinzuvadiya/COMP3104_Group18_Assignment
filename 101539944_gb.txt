@@ -28,3 +28,7 @@ with a strong focus on hands-on, career-oriented learning.
 - Student clubs, events and an active student association.
 - Career services, co-op and work-integrated learning opportunities.
 - Libraries, labs, tutoring and academic support services.
+
+5. Why it matters for this course
+Our group uses GitHub, branching and CI/CD to complete this COMP3104
+assignment, which are the same practices used in real software teams.
