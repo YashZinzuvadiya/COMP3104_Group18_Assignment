@@ -15,3 +15,11 @@ with a strong focus on hands-on, career-oriented learning.
 - Waterfront Campus: located on Toronto's waterfront, with programs in areas
   such as health, community and human services.
 (Check gbc.ca to confirm the current campus list and which programs run where.)
+
+
+3. Programs
+- Technology: Computer Programmer Analyst, Computer Systems Technology,
+  Information Technology related programs.
+- Business: accounting, marketing and management programs.
+- Health sciences and community services.
+- Arts and design, and hospitality and culinary programs.
