@@ -22,3 +22,8 @@ and maintain software. It helps control cost, quality and time.
   Flexible, but needs close communication with the customer.
 - Spiral: repeats cycles with a focus on risk analysis.
 - V-Model: each development phase is paired with a testing phase.
+
+
+4. Waterfall vs Agile
+Waterfall suits projects with fixed, clear requirements. Agile suits projects
+where requirements change and early feedback is valuable.
