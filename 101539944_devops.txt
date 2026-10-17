@@ -30,3 +30,8 @@ The goal is to deliver updates faster and with fewer errors.
 - Fewer bugs reaching users
 - Quicker recovery when something fails
 - Better teamwork and less blame between teams
+
+5. DevOps in our project
+Our repository uses GitHub Actions. Each push to a branch triggers the
+workflow, and the green check on the branch page shows the run passed.
+This is a small example of continuous integration.
