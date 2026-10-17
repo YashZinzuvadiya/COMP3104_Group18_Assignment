@@ -24,3 +24,9 @@ The goal is to deliver updates faster and with fewer errors.
 - Containers: Docker
 - Orchestration: Kubernetes
 - Infrastructure as code: Terraform, Ansible
+
+4. Benefits
+- Faster and more frequent releases
+- Fewer bugs reaching users
+- Quicker recovery when something fails
+- Better teamwork and less blame between teams
