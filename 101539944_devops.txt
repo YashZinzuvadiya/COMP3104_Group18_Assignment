@@ -17,3 +17,10 @@ The goal is to deliver updates faster and with fewer errors.
 - Automation: builds, tests and deployments are scripted, not done by hand.
 - Monitoring and feedback: the live system is watched and what is learned
   goes back into development.
+
+  3. Common tools
+- Version control: Git and GitHub
+- CI/CD: GitHub Actions, Jenkins
+- Containers: Docker
+- Orchestration: Kubernetes
+- Infrastructure as code: Terraform, Ansible
