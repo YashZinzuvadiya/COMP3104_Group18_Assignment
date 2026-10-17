@@ -13,3 +13,12 @@ and maintain software. It helps control cost, quality and time.
 5. Testing: find and fix bugs, check requirements are met.
 6. Deployment: release the software to users.
 7. Maintenance: fix issues, improve and update over time.
+
+
+3. Common models
+- Waterfall: phases happen in strict order. Simple and well documented, but
+  hard to change once a phase is finished.
+- Agile: work is done in short cycles (sprints) with frequent feedback.
+  Flexible, but needs close communication with the customer.
+- Spiral: repeats cycles with a focus on risk analysis.
+- V-Model: each development phase is paired with a testing phase.
