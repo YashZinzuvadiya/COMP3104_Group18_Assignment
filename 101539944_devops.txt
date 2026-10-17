@@ -6,3 +6,14 @@ DevOps is a way of working that brings software development (Dev) and IT
 operations (Ops) together. Instead of passing work from one team to another,
 both share responsibility for building, releasing and running the software.
 The goal is to deliver updates faster and with fewer errors.
+
+
+2. Key practices
+- Collaboration: developers and operations work as one team.
+- Continuous Integration (CI): every code push is automatically built and
+  tested so problems are found early.
+- Continuous Delivery/Deployment (CD): tested code is automatically prepared
+  for release, or released, with little manual work.
+- Automation: builds, tests and deployments are scripted, not done by hand.
+- Monitoring and feedback: the live system is watched and what is learned
+  goes back into development.
