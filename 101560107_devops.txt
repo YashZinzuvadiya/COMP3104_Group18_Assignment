@@ -1,0 +1,44 @@
+COMP 2156 DEVOPS COURSE
+
+This course is about DevOps, which is a way of working that brings
+software development and IT operations together. The main idea is that
+teams can build, test and release software faster and with fewer
+mistakes when they work together and automate repeated tasks. In this
+course we learn how DevOps works in practice, mainly through version
+control and continuous integration.
+
+
+TOPICS COVERED
+
+In the first weeks we learned why DevOps matters and how to use the
+command line with BASH. After that we studied version control with Git
+and GitHub, including the difference between centralized and
+distributed version control systems, remote repositories, SSH keys and
+access tokens. Later topics include DevOps roles and culture, the
+DevOps lifecycle, monolith and microservice architecture, hosting
+single page applications, and tracking work with Jira. The course also
+covers continuous integration and continuous deployment, which means
+automatically building, testing and deploying code whenever changes
+are made.
+
+TOOLS USED
+
+The main tools in the course are Git and GitHub for version control.
+We use Git Bash to practice command line work, and GitHub Desktop or
+SourceTree can be used as graphical tools. For continuous integration
+the outline mentions Travis CI and Jenkins, but in our group assignment
+we used GitHub Actions, which runs a workflow automatically every time
+we push code. Other tools in the course are Jira for tracking work, and
+Gradle and Maven for building projects.
+
+
+WHAT I LEARNED FROM THE GROUP ASSIGNMENT
+
+This group assignment gave me hands-on practice with the things we
+studied in class. I learned how to clone a repository, create my own
+branch, and make small commits with clear messages. Each member works
+on a separate branch, which keeps the main branch safe until the work
+is reviewed and merged with a pull request. I also saw how GitHub
+Actions runs automatically on every push and shows a green check when
+the workflow passes. Working with a team will also show me why pulling the
+latest changes from main before starting work is important.
