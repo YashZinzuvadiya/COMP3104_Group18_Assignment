@@ -6,3 +6,10 @@ Helps control cost, time and quality
 Phases:
 
 Planning → requirements → design → implementation → testing → deployment → maintenance
+
+Models:
+
+Waterfall: phases happen in order, one at a time.
+Agile: short sprints with frequent feedback.
+Optionally: Spiral or the V-Model.
+How DevOps extends Agile into deployment and operations
