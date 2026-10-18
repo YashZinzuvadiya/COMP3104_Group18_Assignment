@@ -1,0 +1,12 @@
+Importance of DevOps in the SDLC
+================================
+
+DevOps joins development and operations so that software moves from planning to production faster and with fewer errors. It removes the hand-off gaps of traditional SDLC models.
+
+Continuous integration runs builds and tests on every push, so bugs are found in the coding and testing phases rather than after release.
+
+Continuous delivery and deployment automate releases, making them repeatable and low risk. Monitoring and feedback in operations then feed back into planning.
+
+Version control gives the team history, traceability and safe collaboration through branches and pull requests, which supports code review and quality.
+
+In short, DevOps shortens the SDLC feedback loop, improves quality and reliability, and encourages shared ownership between teams.
