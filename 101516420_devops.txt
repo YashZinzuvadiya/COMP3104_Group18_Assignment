@@ -3,3 +3,11 @@ Definition:
 DevOps brings development and operations teams together.
 The goal is to deliver software faster and more reliably.
 It’s a culture of shared responsibility, not just a set of tools.
+
+Practices and tools:
+
+CI: merge often, with automatic build and test on every push, like your repo’s GitHub Actions workflow
+CD: automated releases
+Version control, infrastructure as code, monitoring
+Tools: Git, GitHub Actions, Docker, Jenkins, Kubernetes
+bash
