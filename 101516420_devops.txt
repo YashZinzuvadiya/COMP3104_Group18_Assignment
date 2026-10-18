@@ -11,3 +11,7 @@ CD: automated releases
 Version control, infrastructure as code, monitoring
 Tools: Git, GitHub Actions, Docker, Jenkins, Kubernetes
 bash
+
+Benefits:
+
+Faster releases, fewer bugs reaching users, quicker recovery, better teamwork
