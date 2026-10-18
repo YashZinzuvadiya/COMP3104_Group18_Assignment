@@ -1,0 +1,5 @@
+Definition:
+
+DevOps brings development and operations teams together.
+The goal is to deliver software faster and more reliably.
+It’s a culture of shared responsibility, not just a set of tools.
