@@ -1,0 +1,34 @@
+Software Development Life Cycle (SDLC) - Notes
+Student: Ishan (101539944)
+ 
+1. What is the SDLC?
+The SDLC is a structured process teams follow to plan, build, test, release
+and maintain software. It helps control cost, quality and time.
+
+2. Phases
+1. Planning: decide goals, scope, budget and schedule.
+2. Requirements analysis: gather what users and the business need.
+3. Design: plan the architecture, database and user interface.
+4. Implementation: write the code.
+5. Testing: find and fix bugs, check requirements are met.
+6. Deployment: release the software to users.
+7. Maintenance: fix issues, improve and update over time.
+
+
+3. Common models
+- Waterfall: phases happen in strict order. Simple and well documented, but
+  hard to change once a phase is finished.
+- Agile: work is done in short cycles (sprints) with frequent feedback.
+  Flexible, but needs close communication with the customer.
+- Spiral: repeats cycles with a focus on risk analysis.
+- V-Model: each development phase is paired with a testing phase.
+
+
+4. Waterfall vs Agile
+Waterfall suits projects with fixed, clear requirements. Agile suits projects
+where requirements change and early feedback is valuable.
+
+5. Conclusion
+For a small team project like ours, Agile fits well: we make small commits,
+merge often and get quick feedback from the CI pipeline. DevOps and CI/CD
+support the testing and deployment phases by automating them.

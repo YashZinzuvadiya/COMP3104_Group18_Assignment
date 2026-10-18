@@ -1,0 +1,34 @@
+George Brown College - Overview
+Student: Ishan (101539944)
+ 
+1. About the college
+George Brown College is a public college in Toronto, Ontario. It offers
+diplomas, certificates, advanced diplomas, degrees and graduate certificates,
+with a strong focus on hands-on, career-oriented learning.
+
+
+2. Campuses
+- St. James Campus: the main downtown campus, home to business, technology
+  and many other programs.
+- Casa Loma Campus: located near Casa Loma, with programs in areas such as
+  technology, health sciences and community services.
+- Waterfront Campus: located on Toronto's waterfront, with programs in areas
+  such as health, community and human services.
+(Check gbc.ca to confirm the current campus list and which programs run where.)
+
+
+3. Programs
+- Technology: Computer Programmer Analyst, Computer Systems Technology,
+  Information Technology related programs.
+- Business: accounting, marketing and management programs.
+- Health sciences and community services.
+- Arts and design, and hospitality and culinary programs.
+
+4. Student life and support
+- Student clubs, events and an active student association.
+- Career services, co-op and work-integrated learning opportunities.
+- Libraries, labs, tutoring and academic support services.
+
+5. Why it matters for this course
+Our group uses GitHub, branching and CI/CD to complete this COMP3104
+assignment, which are the same practices used in real software teams.
