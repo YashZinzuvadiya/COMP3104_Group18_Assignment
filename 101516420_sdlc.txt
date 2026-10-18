@@ -2,3 +2,7 @@ Overview:
 
 A structured process for planning, building and maintaining software
 Helps control cost, time and quality
+
+Phases:
+
+Planning → requirements → design → implementation → testing → deployment → maintenance
